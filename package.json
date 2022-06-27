@@ -1,7 +1,7 @@
 {
-    "name": "Aine-Bot",
-    "version": "07.06.98",
-    "description": "Customizable WhatsApp Bot",
+    "name": "StarBot",
+    "version": "23.06.01",
+    "description": "Hanya mengubah kata-kata, sc @aineeBot",
     "depecrated": false,
     "main": "index.js",
     "directories": {
