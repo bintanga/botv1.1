@@ -3582,10 +3582,10 @@
       "catexp": 0
     },
     "628558791299@s.whatsapp.net": {
-      "exp": 591,
+      "exp": 9999,
       "limit": 1003,
       "joinlimit": 1,
-      "spammer": 0,
+      "spammer": 999,
       "money": 24999,
       "bank": 10000,
       "health": 100,
