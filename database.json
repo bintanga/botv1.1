@@ -3582,7 +3582,7 @@
       "catexp": 0
     },
     "628558791299@s.whatsapp.net": {
-      "exp": 9999,
+      "exp": 99995370,
       "limit": 1003,
       "joinlimit": 1,
       "spammer": 999,
@@ -3603,10 +3603,10 @@
       "banned": false,
       "premium": true,
       "warn": 0,
-      "pc": 1656257784266,
+      "pc": 1656520433636,
       "expg": 0,
-      "level": 2,
-      "role": "Beginner",
+      "level": 87,
+      "role": "The Commander Super Legends Shadow Hero",
       "autolevelup": true,
       "potion": 10,
       "trash": 0,
@@ -7473,10 +7473,10 @@
   },
   "stats": {
     "menu.js": {
-      "total": 28,
-      "success": 28,
-      "last": 1656314860908,
-      "lastSuccess": 1656314860908
+      "total": 30,
+      "success": 30,
+      "last": 1656520434060,
+      "lastSuccess": 1656520434060
     },
     "sticker.js": {
       "total": 30,
@@ -7662,6 +7662,18 @@
       "total": 3,
       "success": 0,
       "last": 1656313932983,
+      "lastSuccess": 0
+    },
+    "exec.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1656520482020,
+      "lastSuccess": 1656520482020
+    },
+    "levelup.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1656520486456,
       "lastSuccess": 0
     }
   },
